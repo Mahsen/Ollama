@@ -1,0 +1,6 @@
+curl -fsSL https://ollama.com/install.sh | sh
+ollama ps
+ollama run phi3:medium
+
+sudo apt-get install libcurl4-openssl-dev
+
